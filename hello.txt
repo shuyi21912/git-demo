@@ -1,2 +1,5 @@
-hello git 222 333
+<<<<<<< HEAD
 hello git 222 333 master
+=======
+hello git 222 333 hot-fix
+>>>>>>> hot-fix
